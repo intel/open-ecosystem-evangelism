@@ -1,6 +1,6 @@
-#Secure Consumption of Open Source Software: Evaluating, Utilizing, and Contributing Safely - SCaLE21x
+# Secure Consumption of Open Source Software: Evaluating, Utilizing, and Contributing Safely - SCaLE21x
 
-##Resources
+## Resources
 
 ### Tools
 
