@@ -23,7 +23,7 @@
 - [Octoverse: The state of open source and rise of AI in 2023](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/)
 
 
-![Secure Consumption of Open Source Software: Evaluating, Utilizing, and Contributing Safely](https://raw.githubusercontent.com/intel/open-ecosystem-evangelism/main/presentations/images/secure-consumption-OSS-SCaLE21x-title-slide.png)
+![Secure Consumption of Open Source Software: Evaluating, Utilizing, and Contributing Safely](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/secure_consumption_OSS_SCALE21x/images/secure-consumption-OSS-SCaLE21x-title-slide.png)
 
 
 
