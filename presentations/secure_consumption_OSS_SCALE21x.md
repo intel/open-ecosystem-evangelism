@@ -17,7 +17,7 @@
 
 ### Articles
 
-- [2023 OPEN SOURCE SECURITY AND RISK ANALYSIS REPORT](https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/rep-ossra-2023.pdf)
+- [2024 OPEN SOURCE SECURITY AND RISK ANALYSIS REPORT](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html)
 - [Summary of Census II: Open Source Software Application Libraries the World Depends On](https://www.linuxfoundation.org/blog/blog/a-summary-of-census-ii-open-source-software-application-libraries-the-world-depends-on)
 - [Open Source is Bigger Than You Can Imagine](https://anchore.com/blog/open-source-is-bigger-than-you-imagine/)
 - [Octoverse: The state of open source and rise of AI in 2023](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/)
