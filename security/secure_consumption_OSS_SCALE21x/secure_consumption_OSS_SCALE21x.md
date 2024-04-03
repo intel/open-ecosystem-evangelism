@@ -24,6 +24,7 @@
 
 
 ![Secure Consumption of Open Source Software: Evaluating, Utilizing, and Contributing Safely](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/secure_consumption_OSS_SCALE21x/images/secure-consumption-OSS-SCaLE21x-title-slide.png)
+[Slides](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/secure_consumption_OSS_SCALE21x/images/Scale21x-security-final.pdf)
 
 
 
