@@ -22,7 +22,7 @@
 - [Octoverse: The state of open source and rise of AI in 2023](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/)
 
 
-### Social Links
+### Katherine's Social Links
 
 - [LinkedIn](https://www.linkedin.com/in/katherinedruckman/)
 - [GitHub](https://github.com/kdruckman)
