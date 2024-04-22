@@ -1,3 +1,5 @@
 # Intel Open Ecosystem Security Presentations
 
 - [Secure Consumption of Open Source Software: Evaluating, Utilizing, and Contributing Safely - SCaLE21x, Katherine Druckman](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/secure_consumption_OSS_SCALE21x/secure_consumption_OSS_SCALE21x.md)
+- [Critical Conversation: Consuming Open Source Securely - SOSS Community Day North America 2024, Katherine Druckman and Ryan Ware](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/consuming_open_source_securely_SOSS_Day2024/consuming_open_source_securely_SOSS_Day2024.md)
+- [Lightning Talk: Secure Consumption of Open Source Software: Evaluating, Utilizing, and Contributing Safely - Open Source Summit North America 2024, Katherine Druckman](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/securely_consuming_open_source_software_OSSNA24/securely_consuming_open_source_software_OSSNA24.md)

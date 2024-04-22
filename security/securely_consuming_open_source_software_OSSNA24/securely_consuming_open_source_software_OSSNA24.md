@@ -29,4 +29,9 @@
 - [Fediverse](https://reality2.social/deck/@katherined)
 - [Twitter](https://twitter.com/KatherineD)
 
+### Presentation
+
+- **[Link to Slides](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/securely_consuming_open_source_software_OSSNA24/ContainerCon-Lightning%20talk-secure%20consumption%202024-pdf.pdf)**
+- **[Session Description](https://sched.co/1bmSE)**
+  
 ![Secure Consumption of Open Source Software: Evaluating, Utilizing, and Contributing Safely](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/securely_consuming_open_source_software_OSSNA24/secureConsumption2024.jpg)
