@@ -30,8 +30,3 @@
 - [Twitter](https://twitter.com/KatherineD)
 
 ![Secure Consumption of Open Source Software: Evaluating, Utilizing, and Contributing Safely](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/securely_consuming_open_source_software_OSSNA24/secureConsumption2024.jpg)
-[Slides](ContainerCon-Lightning talk-secure consumption 2024-pdf.pdf)
-
-
-
-
