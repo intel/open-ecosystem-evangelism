@@ -24,7 +24,7 @@
 
 ### Presentation
 
-- **[Link to Slides](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/securely_consuming_open_source_software_OSSNA24/SOSS%20Day%20NA%2024%20Consuming%20OSS%20Securely-pdf.pdf)**
+- **[Link to Slides](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/consuming_open_source_securely_SOSS_Day2024/SOSS%20Day%20NA%2024%20Consuming%20OSS%20Securely-pdf.pdf)**
 - **[Session Description](https://sched.co/1aNLn)**
 
 ![Critical Conversation: Consuming Open Source Securely - SOSS Community Day North America 2024](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/consuming_open_source_securely_SOSS_Day2024/SOSS-Day-NA24-Consuming-OSS-Securely-title-slide.jpg)
