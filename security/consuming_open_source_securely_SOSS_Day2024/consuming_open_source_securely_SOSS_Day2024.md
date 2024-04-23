@@ -22,6 +22,10 @@
 - [Summary of Census II: Open Source Software Application Libraries the World Depends On](https://www.linuxfoundation.org/blog/blog/a-summary-of-census-ii-open-source-software-application-libraries-the-world-depends-on)
 - [How Intel Uses OpenSSF Scorecard To Better Secure Its Software Portfolio](https://openssf.org/blog/2024/03/25/how-intel-uses-openssf-scorecard-to-better-secure-its-software-portfolio/)
 
+### Presentation
+
+- **[Link to Slides](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/securely_consuming_open_source_software_OSSNA24/SOSS%20Day%20NA%2024%20Consuming%20OSS%20Securely-pdf.pdf)**
+- **[Session Description](https://sched.co/1aNLn)**
 
 ![Critical Conversation: Consuming Open Source Securely - SOSS Community Day North America 2024](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/consuming_open_source_securely_SOSS_Day2024/SOSS-Day-NA24-Consuming-OSS-Securely-title-slide.jpg)
 
