@@ -1,4 +1,4 @@
-# Secure Consumption of Open Source Software: Evaluating, Utilizing, and Contributing Safely - Grace Hopper Celebration 2024
+# Secure Consumption of Open Source Software: Evaluating, Utilizing, and Contributing Safely - Grace Hopper Celebration 2024
 ## Katherine Druckman
 
 ## Resources
@@ -27,5 +27,5 @@
 - **[Link to Slides]()**
 - **[Session Description](https://sched.co/1aNLn)**
 
-![Critical Conversation: Consuming Open Source Securely - SOSS Community Day North America 2024](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/consuming_open_source_securely_GHC2024/GHC-24-SecureConsumption.jpg)
+![Critical Conversation: Consuming Open Source Securely - SOSS Community Day North America 2024](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/consuming_open_source_securely_GHC24/GHC-24-SecureConsumption.jpg)
 
