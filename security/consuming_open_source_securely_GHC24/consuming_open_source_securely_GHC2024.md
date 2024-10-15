@@ -25,7 +25,7 @@
 ### Presentation
 
 - **[Link to Slides]()**
-- **[Session Description](https://sched.co/1aNLn)**
+
 
 ![Critical Conversation: Consuming Open Source Securely - SOSS Community Day North America 2024](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/consuming_open_source_securely_GHC24/GHC-24-SecureConsumption.jpg)
 
