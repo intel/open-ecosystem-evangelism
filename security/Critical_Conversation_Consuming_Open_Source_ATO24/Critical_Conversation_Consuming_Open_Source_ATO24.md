@@ -1,4 +1,4 @@
-# Back to Security Basics: Evaluating, Consuming, and Contributing Open Source Software - Open Source Summit Europe 2024
+# Critical Conversation: Consuming Open Source Software Securely - All Things Open 2024
 
 ## Resources
 
@@ -23,5 +23,6 @@
 - [Octoverse: The state of open source and rise of AI in 2023](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/)
 
 
-![Critical Conversation: Consuming Open Source Software Securely]()
+![Critical Conversation: Consuming Open Source Software Securely](https://github.com/intel/open-ecosystem-evangelism/blob/main/security/Critical_Conversation_Consuming_Open_Source_ATO24/ATO-24-SecureConsumption.jpg)
+
 [Slides]()
