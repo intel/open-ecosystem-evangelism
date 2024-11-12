@@ -3,6 +3,7 @@
 - [LinkedIn](https://www.linkedin.com/in/katherinedruckman/)
 - [Twitter/X](https://x.com/KatherineD)
 - [Mastodon](https://reality2.social/@katherined)
+- [Bluesky](https://bsky.app/profile/katherined.bsky.social)
 
 ## Podcast
 **Subscribe to the Open at Intel Podcast** on [Apple Podcasts](https://podcasts.apple.com/us/podcast/open-at-intel/id1670972366) | [Spotify](https://open.spotify.com/show/4RGqDRWqachrBY1eYfoXEj) | [Amazon Music](https://music.amazon.com/podcasts/6334bebc-291c-40c9-b418-8330a67ecd0a/open-at-intel) | [RSS](https://feed.podbean.com/openatintel/feed.xml)
